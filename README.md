@@ -1,5 +1,4 @@
 Credit Risk Prediction Model
-Project Overview
 This project implements a Credit Risk Prediction Model that predicts the likelihood of a borrower defaulting on a loan. The model leverages machine learning techniques and is built with a Django web interface for user-friendly interaction. Several machine learning models were explored, including Random Forest, XGBoost, LightGBM, and CatBoost, with CatBoost being chosen as the final model due to its superior performance. The project is fully functional locally, but deployment is still in progress.
 
 Features
